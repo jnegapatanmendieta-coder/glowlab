@@ -1,26 +1,12 @@
 {
   "name": "GlowLab Makeup Studio",
   "short_name": "GlowLab",
-  "description": "Shop makeup, get skintone recommendations, and try shades on with your front camera.",
+  "description": "Shop makeup, skintone recommendations, and AR try-on",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff1f2",
   "theme_color": "#e11d48",
-  "categories": ["shopping", "lifestyle", "beauty"],
-  "icons": [
-    {
-      "src": "icon-192.svg",
-      "sizes": "192x192",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-192.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
+  "icons": [{"src": "icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any"}]
 }
